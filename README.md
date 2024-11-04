@@ -5,8 +5,8 @@
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
 
 ## Aim: 
-	To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
- <BR>
+	To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
+ 
  
 ## Algorithm:
 Step 1: Import the nltk library.<br>
